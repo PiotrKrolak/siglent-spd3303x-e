@@ -22,6 +22,7 @@
 		<Item Name="variables" Type="Folder" URL="../variables">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="dial_tests.vi" Type="VI" URL="../../dial_tests.vi"/>
 		<Item Name="SIGLENT_SPD3303X-E__VISA__IDN_v00.vi" Type="VI" URL="../SIGLENT_SPD3303X-E__VISA__IDN_v00.vi"/>
 		<Item Name="SIGLENT_SPD3303X-E__VISA__IDN_v01.vi" Type="VI" URL="../SIGLENT_SPD3303X-E__VISA__IDN_v01.vi"/>
 		<Item Name="SIGLENT_SPD3303X-E_front_panel.vi" Type="VI" URL="../SIGLENT_SPD3303X-E_front_panel.vi"/>
