@@ -26,7 +26,6 @@
 		<Item Name="SIGLENT_SPD3303X-E__VISA__IDN_v00.vi" Type="VI" URL="../SIGLENT_SPD3303X-E__VISA__IDN_v00.vi"/>
 		<Item Name="SIGLENT_SPD3303X-E__VISA__IDN_v01.vi" Type="VI" URL="../SIGLENT_SPD3303X-E__VISA__IDN_v01.vi"/>
 		<Item Name="SIGLENT_SPD3303X-E_front_panel.vi" Type="VI" URL="../SIGLENT_SPD3303X-E_front_panel.vi"/>
-		<Item Name="SIGLENT_SPD3303X-E_front_panel_formatka.vi" Type="VI" URL="../formatki/SIGLENT_SPD3303X-E_front_panel_formatka.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
